@@ -51,7 +51,7 @@
     "detect-indent": "^5.0.0",
     "graceful-fs": "^4.1.2",
     "has": "^1.0.1",
-    "invariant": "^2.2.0",
+    "invariant": "^2.2.2",
     "is-absolute": "^0.2.3",
     "jspm-config": "^0.3.0",
     "listify": "^1.0.0",
