@@ -55,7 +55,7 @@
     "is-absolute": "^0.2.3",
     "jspm-config": "^0.3.0",
     "listify": "^1.0.0",
-    "lockfile": "^1.0.1",
+    "lockfile": "^1.0.3",
     "make-error-cause": "^1.2.1",
     "mkdirp": "^0.5.1",
     "object.pick": "^1.1.1",
